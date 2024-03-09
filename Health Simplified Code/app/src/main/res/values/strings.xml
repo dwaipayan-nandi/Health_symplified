@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Java Practical project</string>
+    <string name="title_activity_hospital">HospitalActivity</string>
+</resources>
